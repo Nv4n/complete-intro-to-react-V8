@@ -24,6 +24,7 @@ const SearchParams = () => {
 
 		updatePets(json.pets);
 	}
+
 	return (
 		<div className="search-params">
 			<form
