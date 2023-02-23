@@ -16,7 +16,6 @@ const queryClient = new QueryClient({
 });
 
 const App = () => {
-	//TODO UPDATE IT TO [x]
 	const adoptedPet = useState(null);
 	return (
 		<div>
